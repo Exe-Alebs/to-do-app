@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+pb_data
+pb_migrations
